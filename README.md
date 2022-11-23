@@ -11,3 +11,7 @@ functions.
 even impossible to isolate. Integration testing is more appropriate here.
 
 4) Yes, this feature can be easily isolated and tested with a unit test.
+
+![screenshot-npm-run-test1](https://github.com/tanya-bimatova/Lab8_Starter/blob/main/screenshot-npm-run-test1.png)
+
+![screenshot-npm-run-test2](https://github.com/tanya-bimatova/Lab8_Starter/blob/main/screenshot-npm-run-test2.png)
